@@ -6,6 +6,7 @@
 	font-family: 'Raleway', sans-serif;
 }
 
+
 /*landing page*/
 .jumbotron hr {
 	background-color: #fff; /*white*/
@@ -24,6 +25,7 @@
 }
 
 .jumbotron h1 {
+	font-family: 'Montserrat', sans-serif;
 	color: #f2f2f2;
 }
 
@@ -50,6 +52,78 @@
 
 
 /*end home page*/
+
+
+/*contact us page*/
+
+/*end contact us*/
+
+/*about us page*/
+
+#jumbotron-about {
+	background-color: #141414;
+	height: 90vh;
+	border-radius: 0;
+	margin-bottom: 0;
+}
+
+#landing-about {
+	color: #f2f2f2;
+	font-size: 5em;
+	padding-top: 20vh;
+	letter-spacing: 5px;
+	font-family: 'Montserrat', sans-serif;
+}
+
+.about-tags {
+	font-weight: bold;
+	font-family: 'Montserrat', sans-serif;	
+}
+
+
+#mission {
+	height: 100%;
+	background-color: #141414; /*off black*/
+	color: #f2f2f2; /*off white*/
+}
+
+#vision {
+	height: 100%;
+	background-color: #f2f2f2; /*off white*/
+	color: #141414; /*off black*/
+}
+
+/*end about us*/
+
+
+
+/*gallery page*/
+
+#head-gall {
+	margin-top: 8%;
+	background-color: #141414; /*off black*/
+	color: #f2f2f2; /*off white*/
+	text-transform: uppercase; /*uppercase the text*/
+	letter-spacing: 0.5em;
+}
+
+#gallery-items .card {
+	height: 400px;
+	margin-bottom: 20px;
+}
+
+#gallery-items .card img {
+	height: 250px;
+	margin-bottom: 50px;
+}
+
+
+
+/*end gallery*/
+
+
+
+
 
 
 
